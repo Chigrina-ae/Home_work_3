@@ -8,3 +8,5 @@
 + git push
 + git pull
 + cd
++ git remote add origin https://github.com/Chigrina-ae/Home_work_3.git
+
